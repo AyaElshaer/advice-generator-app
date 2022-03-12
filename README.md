@@ -31,8 +31,8 @@ Challenge is to build out  advice generator app using the [Advice Slip API](http
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AyaElshaer/)
-- Live Site URL: [Live Site]()
+- Solution URL: [GitHub](https://github.com/AyaElshaer/advice-generator-app)
+- Live Site URL: [Live Site](https://advice-generator-app-ten.vercel.app/)
 
 
 
