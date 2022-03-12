@@ -61,6 +61,11 @@ body {
   text-align: center;
 }
 
+
+.card .divider{
+    margin-top: 2.5rem;
+}
+
 .card .divider.mobile {
   display: none;
 }
